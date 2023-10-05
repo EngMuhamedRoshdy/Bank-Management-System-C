@@ -1,7 +1,7 @@
 Bank Management System - A C program for efficient management of customer accounts in a bank.
 # Bank Management System
 
-The Bank Management System is a software application designed to handle various tasks related to managing customer accounts in a bank. It provides a user-friendly interface for bank staff to perform essential operations efficiently. The system employs a binary tree and linked list data structure for efficient customer data management. Transactions are timestamped with the date of the transaction. Input validation is implemented to ensure data integrity.
+this is my NTI graduation C project, The Bank Management System is a software application designed to handle various tasks related to managing customer accounts in a bank. It provides a user-friendly interface for bank staff to perform essential operations efficiently. The system employs a binary tree and linked list data structure for efficient customer data management. Transactions are timestamped with the date of the transaction. Input validation is implemented to ensure data integrity.
 
 ## Key Features
 
