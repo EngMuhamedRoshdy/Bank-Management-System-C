@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1695931861 source:m:\courses\roshdy_bank_management_system\v02\v05\roshdy_project_test_1\main.c
+	"Bank.h"
+	"menu.h"
+
+1695930055 m:\courses\roshdy_bank_management_system\v02\v05\roshdy_project_test_1\bank.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1695929792 m:\courses\roshdy_bank_management_system\v02\v05\roshdy_project_test_1\menu.h
+	<windows.h>
+
+1695930155 source:m:\courses\roshdy_bank_management_system\v02\v05\roshdy_project_test_1\menu.c
+	"menu.h"
+
+1695932657 source:m:\courses\roshdy_bank_management_system\v02\v05\roshdy_project_test_1\bank.c
+	"Bank.h"
+	"menu.h"
+
+1695995984 source:m:\courses\roshdy_bank_management_system\v02\v05final tested_andverified\roshdy_project_test_1\main.c
+	"Bank.h"
+	"MenuUiUx.h"
+
+1695996641 m:\courses\roshdy_bank_management_system\v02\v05final tested_andverified\roshdy_project_test_1\bank.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1695929792 m:\courses\roshdy_bank_management_system\v02\v05final tested_andverified\roshdy_project_test_1\menu.h
+	<windows.h>
+
+1695933038 source:m:\courses\roshdy_bank_management_system\v02\v05final tested_andverified\roshdy_project_test_1\menu.c
+	"menu.h"
+
+1695998829 source:m:\courses\roshdy_bank_management_system\v02\v05final tested_andverified\roshdy_project_test_1\bank.c
+	"Bank.h"
+	"MenuUiUx.h"
+
+1695992244 source:m:\courses\roshdy_bank_management_system\v02\v05final tested_andverified\roshdy_project_test_1\menuuiux.c
+	"MenuUiUx.h"
+
+1695996641 m:\courses\roshdy_bank_management_system\v02\v05final tested_andverified\roshdy_project_test_1\menuuiux.h
+	<windows.h>
+
+1696024830 source:m:\courses\roshdy_bank_management_system\v02\v06inal tested_andverified\v06inal tested_andverified\roshdy_project_test_1\bank.c
+	"Bank.h"
+	"MenuUiUx.h"
+
+1696020476 m:\courses\roshdy_bank_management_system\v02\v06inal tested_andverified\v06inal tested_andverified\roshdy_project_test_1\bank.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1695999587 m:\courses\roshdy_bank_management_system\v02\v06inal tested_andverified\v06inal tested_andverified\roshdy_project_test_1\menuuiux.h
+	<windows.h>
+
+1695999587 source:m:\courses\roshdy_bank_management_system\v02\v06inal tested_andverified\v06inal tested_andverified\roshdy_project_test_1\main.c
+	"Bank.h"
+	"MenuUiUx.h"
+
+1695999587 source:m:\courses\roshdy_bank_management_system\v02\v06inal tested_andverified\v06inal tested_andverified\roshdy_project_test_1\menuuiux.c
+	"MenuUiUx.h"
+
+1696024830 source:m:\courses\roshdy_bank_management_system\v02\v07final tested_andverified_lastest virsion\v06inal tested_andverified\roshdy_project_test_1\bank.c
+	"Bank.h"
+	"MenuUiUx.h"
+
+1696020476 m:\courses\roshdy_bank_management_system\v02\v07final tested_andverified_lastest virsion\v06inal tested_andverified\roshdy_project_test_1\bank.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1695999587 m:\courses\roshdy_bank_management_system\v02\v07final tested_andverified_lastest virsion\v06inal tested_andverified\roshdy_project_test_1\menuuiux.h
+	<windows.h>
+
+1695999587 source:m:\courses\roshdy_bank_management_system\v02\v07final tested_andverified_lastest virsion\v06inal tested_andverified\roshdy_project_test_1\main.c
+	"Bank.h"
+	"MenuUiUx.h"
+
+1695999587 source:m:\courses\roshdy_bank_management_system\v02\v07final tested_andverified_lastest virsion\v06inal tested_andverified\roshdy_project_test_1\menuuiux.c
+	"MenuUiUx.h"
+
